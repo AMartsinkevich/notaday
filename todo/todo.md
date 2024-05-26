@@ -7,3 +7,4 @@
 3. Components (objects) for semantic blocks
 4. Grafana
 5. wget data to Docker-container
+6. sc maybe a better candidate
