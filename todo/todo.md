@@ -11,3 +11,4 @@
 7. Plugin or redirect/iframe page
 8. sim
 9. Shopping
+10. Bootflash
