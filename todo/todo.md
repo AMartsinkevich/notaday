@@ -13,3 +13,4 @@
 9. Shopping
 10. Bootflash
 11. Rufus
+12. Sony XB13
