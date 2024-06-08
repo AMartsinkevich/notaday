@@ -17,3 +17,4 @@
 13. HP i15-n269er Bluetooth - replace
 14. DB
 15. PC
+16. Scales - up to 08-07-2024
