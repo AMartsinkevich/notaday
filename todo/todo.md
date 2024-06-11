@@ -2,26 +2,29 @@
 
 -----------------------
 
-1. [WORK] Up to 19-07-2024 Remind about vacation
-2. 
-3. {HOME] Scales - up to 08-07-2024
-4.
-5. SQL
-6. Login / Auth app
-7. Components (objects) for semantic blocks
-8. Grafana
-9. wget data to Docker-container
-10. sc maybe a better candidate
-11. Plugin or redirect/iframe page
-12. sim
-13. Shopping
-14. Bootflash
-15. Rufus
-16. Sony XB13 - done
-17. HP i15-n269er Bluetooth - replace
-18. DB
-19. PC
-20. 
-21. Table
-22. Tests
+1. [WORK]
+2. Up to 19-07-2024 Remind about vacation
+3. 
+4. {HOME]
+5. Scales - up to 08-07-2024
+6.
+7. [WISHES]
+8. SQL
+9. Login / Auth app
+10. Components (objects) for semantic blocks
+11. Grafana
+12. wget data to Docker-container
+13. sc maybe a better candidate
+14. Plugin or redirect/iframe page
+15. sim
+16. Shopping
+17. Bootflash
+18. Rufus
+19. Sony XB13 - done
+20. HP i15-n269er Bluetooth - replace
+21. DB
+22. PC
 23. 
+24. Table
+25. Tests
+26. 
