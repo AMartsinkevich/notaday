@@ -2,22 +2,26 @@
 
 -----------------------
 
-1. SQL
-2. Login / Auth app
-3. Components (objects) for semantic blocks
-4. Grafana
-5. wget data to Docker-container
-6. sc maybe a better candidate
-7. Plugin or redirect/iframe page
-8. sim
-9. Shopping
-10. Bootflash
-11. Rufus
-12. Sony XB13 - done
-13. HP i15-n269er Bluetooth - replace
-14. DB
-15. PC
-16. Scales - up to 08-07-2024
-17. Table
-18. Tests
-19. [WORK] Up to 19-07-2024 Remind about vacation
+1. [WORK] Up to 19-07-2024 Remind about vacation
+2. 
+3. {HOME] Scales - up to 08-07-2024
+4.
+5. SQL
+6. Login / Auth app
+7. Components (objects) for semantic blocks
+8. Grafana
+9. wget data to Docker-container
+10. sc maybe a better candidate
+11. Plugin or redirect/iframe page
+12. sim
+13. Shopping
+14. Bootflash
+15. Rufus
+16. Sony XB13 - done
+17. HP i15-n269er Bluetooth - replace
+18. DB
+19. PC
+20. 
+21. Table
+22. Tests
+23. 
