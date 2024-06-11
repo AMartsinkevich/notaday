@@ -20,3 +20,4 @@
 16. Scales - up to 08-07-2024
 17. Table
 18. Tests
+19. [WORK] Up to 19-07-2024 Remind about vacation
