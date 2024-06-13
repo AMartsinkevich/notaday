@@ -28,4 +28,5 @@
 24. Table
 25. Tests
 26. Rest
-27. 
+27. Chair
+28. 
