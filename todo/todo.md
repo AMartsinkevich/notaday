@@ -27,6 +27,6 @@
 23. 
 24. Table
 25. Tests
-26. Rest
+26. Rest - Done
 27. Chair
 28. yaml
