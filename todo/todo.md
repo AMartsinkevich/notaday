@@ -21,10 +21,9 @@
 17. Bootflash
 18. Rufus
 19. Sony XB13 - done
-20. HP i15-n269er Bluetooth - replace
+20. HP 15-n269er Bluetooth - replace
 21. DB
 22. PC
-23. 
 24. Table
 25. Tests
 26. Rest - Done
