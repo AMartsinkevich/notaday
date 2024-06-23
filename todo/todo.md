@@ -31,7 +31,7 @@
 27. Sony XB13 - done
 28. HP 15-n269er Bluetooth - replace
 29. DB
-30. PC
+30. PC - compare
 31. Table
 32. Tests
 33. Rest - Done
